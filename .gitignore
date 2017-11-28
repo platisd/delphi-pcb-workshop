@@ -1,0 +1,8 @@
+# Ignore everything
+*
+# Except the following:
+!.gitignore
+!xmas_board.brd
+!xmas_board.sch
+!README.md
+!LICENSE

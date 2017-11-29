@@ -4,5 +4,7 @@
 !.gitignore
 !xmas_board.brd
 !xmas_board.sch
+!*.dru
+!*.cam
 !README.md
 !LICENSE
